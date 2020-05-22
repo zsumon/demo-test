@@ -1,0 +1,13 @@
+.cr_header {
+    margin-bottom: 2rem;
+    min-height: 3rem;
+    min-width: 100vw;
+    background-color: #FA7226;
+}
+
+@media only screen and (max-width: 992px) {
+    .mobile-margin {
+        margin-top: 3rem !important;
+        bottom: 0;
+    }
+}

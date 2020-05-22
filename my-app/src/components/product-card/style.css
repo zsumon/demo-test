@@ -1,0 +1,47 @@
+.pc_card-body {
+    padding: 1rem !important;
+}
+
+.pc_card {
+    margin-right: 1rem;
+    max-width: 15rem;
+    max-height: 18rem;
+}
+
+.pc_image {
+    max-width: 15rem;
+    max-height: 10rem;
+}
+
+.pc_title {
+    font-size: 18px;
+}
+
+p.pc_quantity_title {
+    font-size: 13px;
+    color: #BEBEBE;
+}
+
+.pc_price_title {
+    font-size: 16px;
+    margin-bottom: 0;
+}
+
+.pc_cart_img {
+    cursor: pointer;
+    height: 30px;
+    width: 30px;
+}
+
+.pc_img_div {
+    position: relative;
+    display: inline-block;
+}
+
+.pc_heart_icon {
+    color: #878787;
+    position: absolute;
+    left: 90%;
+    top: 15%;
+    transform: translate(-50%, -50%);
+}
